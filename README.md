@@ -1,3 +1,16 @@
+## Table of Contents
+- [About](#about)
+- [What It Does](#what-it-does)
+- [How It Works](#how-it-works)
+- [Built With](#built-with)
+- [How to Run Locally](#how-to-run-locally)
+- [Edge Case Handling](#edge-case-handling)
+- [What This Project Demonstrates](#what-this-project-demonstrates)
+- [License](#license)
+
+
+
+
 # OpenAI File Analyzer
 
 A simple Python CLI tool that analyzes large text or log files using OpenAI models.
